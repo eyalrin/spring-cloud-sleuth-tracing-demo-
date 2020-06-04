@@ -25,10 +25,8 @@ class DemoControllerIT extends Specification {
     @Autowired
     MockMvc mockMvc
 
-
     def setup() {
         mockMvc = MockMvcBuilders.webAppContextSetup(webApplicationContext)
-                .apply(SecurityMockMvcConfigurers.springSecurity())
                 .build()
     }
 
