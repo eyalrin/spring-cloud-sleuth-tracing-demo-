@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR5</spring-cloud.version>
 		<spock-core.version>1.3-groovy-2.4</spock-core.version>
-		<groovy-al.version>2.4.15</groovy-al.version>
+		<groovy-al.version>2.4.21</groovy-al.version>
 		<groovy.version>2.4.15</groovy.version>
 	</properties>
 
